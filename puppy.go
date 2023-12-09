@@ -4,6 +4,6 @@ func BreakFast() string {
 	return "Hello go"
 }
 
-func sample() string {
+func Sample() string {
 	return "My name is  Resul"
 }
